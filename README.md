@@ -1,2 +1,2 @@
 # TFM-project-releases
-This is the download repository for the model weights required for calculations in the TFM software.
+This is the download repository for the TFM software installation package and the cell segmentation model weights.
